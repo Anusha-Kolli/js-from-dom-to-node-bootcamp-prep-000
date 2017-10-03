@@ -7,6 +7,6 @@ if (dog=== "hungry")
 }elseif(dog==="thirsty")
 {
   console.log("refill the water bowl")
-} else{
+}else{
   console.log("learn some code")
 }
